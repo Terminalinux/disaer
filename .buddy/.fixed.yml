@@ -11,4 +11,6 @@
     commands:
     - "nuget restore"
     - "msbuild"
+    - "vukan-markovic/Github-Android-Action@1.2"
+    distribution: "WINDOWS_SERVER_2019"
     instance_type: "COMPUTE_XLARGE"
